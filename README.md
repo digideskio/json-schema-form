@@ -5,8 +5,9 @@
 
 This repository holds the json-schema-form standard and its documentation.
 
-### I need more information
+### [I need more information](https://github.com/json-schema-form/json-schema-form/wiki)
 For information on the project and what is going on please check out the [wiki](https://github.com/json-schema-form/json-schema-form/wiki).
 
-### I want to discuss the json-schema-form projects or reach out to developers or other users
+### [I want to discuss](https://gitter.im/json-schema-form/json-schema-form-projects)
+I want to talk about the json-schema-form projects or reach out to developers or other users. 
 [The gitter page](https://gitter.im/json-schema-form/json-schema-form-projects) is good for that.
